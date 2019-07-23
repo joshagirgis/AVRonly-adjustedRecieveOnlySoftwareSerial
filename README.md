@@ -7,3 +7,9 @@
   #include <ReceiveOnlySoftwareSerial.h>
    ReceiveOnlySoftwareSerial gpsSer;  // RX 
    ```
+   
+   ```
+if (gpsSer.available()) {
+    char c = gpsSer.read();
+}
+   ```
