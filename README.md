@@ -1,2 +1,3 @@
 # AVRonly-adjustedRecieveOnlySoftwareSerial
- no Arduino Dependencies
+ No Arduino Dependencies,
+ Adjust your Port Settings in the .cpp
